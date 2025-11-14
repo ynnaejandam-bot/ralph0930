@@ -40,11 +40,6 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",TELERADYO (TFC)
 https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="teleradyo2" tvg-name="TELERADYO (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 TFC CHANNELS",TELERADYO (CON)
-http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 #EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",ANC HD (TFC)
@@ -441,4 +436,5 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 #EXTM3U billed-msg="SalvadorArchives25 Property, 6-CIMATTI! "
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
+
 
