@@ -60,11 +60,6 @@ https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https:/
 #EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",KNOWLEDGE CHANNELS (TFC)
 https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd|Referer=https://www.iwanttfc.com/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 KAPUSO CHANNELS",CONVERGE VISION INFO
-http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 #EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 KAPUSO CHANNELS",GMA PINOY TV (TFC)
@@ -477,6 +472,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 #EXTM3U billed-msg="SalvadorArchives25 Property, 6-CIMATTI! "
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
+
 
 
 
